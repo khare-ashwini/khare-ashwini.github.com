@@ -31,7 +31,7 @@ The temptation of making money online was what make thousands of bloggers follow
  
 I experimented too by adding Google Ads on the blog. Once the traffic started kicking up, the CPM (Cost per 1000 impressions) & CTR (Click through Rate) for ads on the blog started to increase enough to get a cheque from Google (the minimum to get used to be $100 Total earnings). While the total earnings from the blog is nothing to boast about, it served as a good encouragement for a meaningful side hobby. I value what I learnt from online blogging experience than the cheque anyways.
  
-![Google AdSense performance for Webtalks](Adsense_webtalks.png)
+![Google AdSense performance for Webtalks](/images/Adsense_webtalks.png)
  
 ### Why it won't work now
  
